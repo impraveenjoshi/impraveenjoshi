@@ -3,8 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>Praveen Joshi | GitHub</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
             background-color: #121212;
             color: white;
@@ -15,6 +23,7 @@
         h1 {
             color: #00ff00;
             font-size: 2.5em;
+            animation: fadeIn 2s ease-in-out;
         }
         a {
             color: #00ff00;
@@ -27,6 +36,8 @@
             background: rgba(255, 255, 255, 0.1);
             padding: 20px;
             border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+            animation: fadeIn 2s ease-in-out;
         }
         .button {
             background: #00ff00;
@@ -36,14 +47,20 @@
             cursor: pointer;
             font-size: 16px;
             margin-top: 20px;
+            border-radius: 5px;
+            transition: background 0.3s ease-in-out;
         }
         .button:hover {
             background: #008000;
         }
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
     </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Profile</h1>
+    <h1>Welcome to My GitHub Page</h1>
     <div class="container">
         <p>🚀 Hi! I'm <strong>Praveen Joshi</strong>, a Full-Stack Developer with 6+ years of experience.</p>
         <p>Check out my <a href="https://github.com/impraveenjoshi" target="_blank">GitHub Profile</a>!</p>
