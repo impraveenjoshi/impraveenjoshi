@@ -1,95 +1,87 @@
-# 🚀 Praveen Joshi  
+<h1 align="center">🚀 Praveen Joshi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300FF00&size=24&center=true&vCenter=true&height=30&lines=Full-Stack+Developer;6%2B+Years+Experience;.NET+|+MEAN+|+MERN;Cloud+Services+%7C+API+Development" alt="Typing SVG">
+</p>
 
-### **Full-Stack Developer | .NET | MEAN | MERN | Cloud Enthusiast**  
-Welcome to my GitHub profile! I'm a passionate **software developer** with **6+ years of experience** in **.NET Full-Stack Development**, **MEAN & MERN stacks**, and **cloud-based solutions**. I love building innovative solutions and continuously improving my skill set.  
-
-📍 **Location:** India 🇮🇳  
-💼 **Currently Working at:** **Innopad Solutions**  
-
----
-
-## 🔥 About Me  
-- ✅ **Experienced in Web & Cloud Development**  
-- ✅ Passionate about **scalable, high-performance applications**  
-- ✅ Strong expertise in **backend & frontend frameworks**  
-- ✅ Open to **collaborations & tech discussions**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=impraveenjoshi&color=blue&style=flat" alt="Profile Views">
+</p>
 
 ---
 
-## 🛠️ **Tech Stack & Expertise**  
-
-### **👨‍💻 Languages & Frameworks**  
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-- ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-- ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white)
-- ![MEAN](https://img.shields.io/badge/MEAN-3DDC84?style=for-the-badge&logo=mean&logoColor=white)
-- ![MERN](https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mern&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-
-### **☁️ Cloud Services & DevOps**  
-- **AWS**:
-  - ![SES](https://img.shields.io/badge/AWS_SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  - ![S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
-  - ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-- **Azure**:
-  - ![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## 🏆 About Me  
+🎯 **Full-Stack Developer at Innopad Solutions**  
+💡 **Passionate about scalable web applications & cloud technologies**  
+🌍 **Exploring new frameworks & DevOps tools**  
+📌 **Currently learning:** Docker, Kubernetes, Web3  
 
 ---
 
-## 🚀 **GitHub Statistics & Profile Insights**  
+## 📌 Tech Stack & Tools  
+<table align="center">
+  <tr>
+    <td align="center"><b>.NET</b></td>
+    <td align="center"><b>.NET Core</b></td>
+    <td align="center"><b>MVC</b></td>
+    <td align="center"><b>MEAN Stack</b></td>
+    <td align="center"><b>MERN Stack</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MEAN-3DDC84?style=for-the-badge&logo=mean&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mern&logoColor=white"></td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impraveenjoshi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=impraveenjoshi&layout=compact&theme=radical)  
-![Profile Visits](https://profile-counter.glitch.me/impraveenjoshi/count.svg)  
+### ☁️ Cloud Services & DevOps  
+- **AWS** (SES, S3, EC2)  
+- **Azure** (Blob Storage, DevOps)  
+- **Docker & Kubernetes (WIP)**  
 
 ---
 
-## 🌱 **What I'm Learning Now**  
-🔹 **Advanced Cloud Computing & Serverless Architectures**  
-🔹 **Docker & Kubernetes for Scalable Apps**  
-🔹 **Blockchain & Web3 Development**  
+## 📊 GitHub Stats & Contributions  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=impraveenjoshi&show_icons=true&theme=radical" width="100%">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impraveenjoshi&layout=compact&theme=radical" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 **Featured Projects**  
-
-🚀 **[Project 1 - Web-Based CRM](#)**  
+## 🚀 Featured Projects  
+### 🛠️ **Web-Based CRM**  
 🔹 **Tech Stack:** .NET Core | Angular | SQL Server  
-🔹 **Description:** A scalable CRM system for managing customer relationships, integrated with cloud services.  
+🔹 **Description:** A scalable CRM system for managing customer relationships.  
 
-📌 **[Project 2 - E-Commerce Platform](#)**  
+### 🛍️ **E-Commerce Platform**  
 🔹 **Tech Stack:** MERN Stack | AWS S3 | Stripe API  
-🔹 **Description:** A feature-rich e-commerce website with payment integration and secure authentication.  
+🔹 **Description:** A fully functional e-commerce platform with payment integration.  
 
-🔎 **Explore more projects in my repositories:** [GitHub Repositories](https://github.com/impraveenjoshi)  
+🔎 **Explore more projects:** [GitHub Repositories](https://github.com/impraveenjoshi)  
 
 ---
 
-## 🌍 **Social Media & Contact Me**  
-
-💬 Let's connect and discuss tech, projects, and collaboration opportunities!  
-
-📩 **Email:** [impraveenjoshi@gmail.com](mailto:impraveenjoshi@gmail.com) | [hello@praveenjoshi.in](mailto:hello@praveenjoshi.in)  
+## 🌍 Connect With Me  
+📩 **Email:** [impraveenjoshi@gmail.com](mailto:impraveenjoshi@gmail.com)  
 🌎 **Website:** [praveenjoshi.in](https://praveenjoshi.in)  
 📱 **Phone:** +91 9783105169  
 
-### 📢 **Follow Me on Social Media:**  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/impraveenjoshi)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/impraveenjoshi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impraveenjoshi/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/impraveenjoshi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/impraveenjoshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impraveenjoshi/)
 
 ---
 
-### 🔥 **Quote for Developers**  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House  
-
-💡 _Always learning, always improving!_ 🚀  
+## 🔥 Quote for Developers  
+> "Code is like humor. When you have to explain it, it's bad." – Cory House  
 
 ---
-
-## ⭐ **Support & Collaboration**  
-If you find my work helpful, consider giving a ⭐ to my projects!  
-
-📌 **[Support My Work](https://github.com/impraveenjoshi)**  
-
+⭐ **Support My Work by Giving a Star!** 🌟 [GitHub Profile](https://github.com/impraveenjoshi)  
