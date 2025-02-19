@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <img src="https://profile-counter.glitch.me/impraveenjoshi/count.svg" alt="Profile Views">
+  <img src="https://profile-counter.glitch.me/impraveenjoshi/count.svg" alt="Profile Views">
 </p>
 
 ---
@@ -15,30 +15,7 @@
 🌍 **Exploring new frameworks & DevOps tools**  
 📌 **Currently learning:** Docker, Kubernetes, Web3  
 
----
-
-## 📌 Tech Stack & Tools  
-<table align="center">
-  <tr>
-    <td align="center"><b>.NET</b></td>
-    <td align="center"><b>.NET Core</b></td>
-    <td align="center"><b>MVC</b></td>
-    <td align="center"><b>MEAN Stack</b></td>
-    <td align="center"><b>MERN Stack</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/MEAN-3DDC84?style=for-the-badge&logo=mean&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=mern&logoColor=white"></td>
-  </tr>
-</table>
-
-### ☁️ Cloud Services & DevOps  
-- **AWS** (SES, S3, EC2)  
-- **Azure** (Blob Storage, DevOps)  
-- **Docker & Kubernetes (WIP)**  
+🔗 **Live Preview:** 🌐 [GitHub Page](https://impraveenjoshi.github.io/impraveenjoshi/)  
 
 ---
 
@@ -56,19 +33,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🛠️ **Web-Based CRM**  
-🔹 **Tech Stack:** .NET Core | Angular | SQL Server  
-🔹 **Description:** A scalable CRM system for managing customer relationships.  
-
-### 🛍️ **E-Commerce Platform**  
-🔹 **Tech Stack:** MERN Stack | AWS S3 | Stripe API  
-🔹 **Description:** A fully functional e-commerce platform with payment integration.  
-
-🔎 **Explore more projects:** [GitHub Repositories](https://github.com/impraveenjoshi)  
-
----
-
 ## 🌍 Connect With Me  
 📩 **Email:** [impraveenjoshi@gmail.com](mailto:impraveenjoshi@gmail.com)  
 🌎 **Website:** [praveenjoshi.in](https://praveenjoshi.in)  
@@ -77,11 +41,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/impraveenjoshi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/impraveenjoshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impraveenjoshi/)
-
----
-
-## 🔥 Quote for Developers  
-> "Code is like humor. When you have to explain it, it's bad." – Cory House  
 
 ---
 ⭐ **Support My Work by Giving a Star!** 🌟 [GitHub Profile](https://github.com/impraveenjoshi)  
