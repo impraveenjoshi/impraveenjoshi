@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impraveenjoshi&color=blue&style=flat" alt="Profile Views">
+   <img src="https://profile-counter.glitch.me/impraveenjoshi/count.svg" alt="Profile Views">
 </p>
 
 ---
