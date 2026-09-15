@@ -218,7 +218,7 @@ interests:
   <a href="mailto:impraveenjoshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://praveenjoshi.in">
+  <a href="https://praveen-joshi-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/impraveenjoshi/">
